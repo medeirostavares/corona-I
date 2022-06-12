@@ -1,0 +1,51 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Main
+*Date=17:06:52
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;36.8987;-10.0687;0;Bottom;Via6
+2;;;29.8987;-41.0687;0;Bottom;Via29
+3;;;19.8987;-38.0687;0;Bottom;Via8
+4;;;36.8987;-25.0687;0;Bottom;Via10
+5;;;16.8987;-38.0687;0;Bottom;Via7
+6;;;11.8987;-41.0687;0;Bottom;Via23
+7;;;31.8987;-25.0687;0;Bottom;Via18
+8;;;26.8987;-41.0687;0;Bottom;Via28
+9;;;14.8987;-41.0687;0;Bottom;Via24
+10;;;36.8987;-3.06867;0;Bottom;Via17
+11;;;2.89865;-33.0687;0;Bottom;Via13
+12;;;26.8987;-25.0687;0;Bottom;Via11
+13;;;36.8987;-22.0687;0;Bottom;Via2
+14;;TO92 [THT];15.1681;-27.9798;0;Bottom; 
+15;;;5.89865;-41.0687;0;Bottom;Via21
+16;;;32.8987;-41.0687;0;Bottom;Via30
+17;220;THT;20.9786;-13.0687;0;Bottom; 
+18;220;THT;26.9786;-19.0687;0;Bottom; 
+19;;;36.8987;-7.06867;0;Bottom;Via9
+20;;;36.8987;-16.0687;0;Bottom;Via4
+21;;;36.8987;-19.0687;0;Bottom;Via3
+22;;TO92 [THT];15.1681;-18.9798;0;Bottom; 
+23;;;2.89865;-30.0687;0;Bottom;Via14
+24;;;23.8987;-41.0687;0;Bottom;Via27
+25;;;2.89865;-22.0687;0;Bottom;Via16
+26;;;23.8987;-25.0687;0;Bottom;Via12
+27;;;36.8987;-28.0687;0;Bottom;Via1
+28;;;2.89865;-26.0687;0;Bottom;Via15
+29;;;36.8987;-13.0687;0;Bottom;Via5
+30;;;17.8987;-41.0687;0;Bottom;Via25
+31;;;20.8987;-41.0687;0;Bottom;Via26
+32;;;8.89865;-41.0687;0;Bottom;Via22
+33;;;2.89865;-36.0687;0;Bottom;Via19
+34;220;THT;18.9786;-35.0687;0;Bottom; 
+35;;buzzer-12mm-ns;31.9813;-35.1394;-1.27222e-14;Bottom; 
+36;;;2.89865;-39.0687;0;Bottom;Via20
