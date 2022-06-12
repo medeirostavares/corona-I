@@ -1,0 +1,198 @@
+solid 3DGeom-1
+	facet normal 0 0 39.3701
+		outer loop
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.0331355 0 0.101936
+			vertex 0.0331355 -0.001 0.101936
+		endloop
+	endfacet 
+	facet normal 0 0 39.3701
+		outer loop
+			vertex 0.0331355 0 0.101936
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.173135 0 0.101936
+		endloop
+	endfacet 
+	facet normal 39.3701 0 0
+		outer loop
+			vertex 0.173135 0 0.0219359
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.173135 -0.001 0.0219359
+		endloop
+	endfacet 
+	facet normal 39.3701 0 0
+		outer loop
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.173135 0 0.0219359
+			vertex 0.173135 0 0.101936
+		endloop
+	endfacet 
+	facet normal 0 0 -39.3701
+		outer loop
+			vertex 0.173135 0 0.0219359
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.0331355 0 0.0219359
+		endloop
+	endfacet 
+	facet normal 0 0 -39.3701
+		outer loop
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.173135 0 0.0219359
+			vertex 0.173135 -0.001 0.0219359
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.0331355 0 0.0219359
+			vertex 0.0341355 0 0.0229359
+			vertex 0.173135 0 0.0219359
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.0341355 0 0.0229359
+			vertex 0.0331355 0 0.0219359
+			vertex 0.0331355 0 0.101936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.0341355 0 0.0229359
+			vertex 0.0331355 0 0.101936
+			vertex 0.0341355 0 0.100936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.0341355 0 0.100936
+			vertex 0.0331355 0 0.101936
+			vertex 0.172135 0 0.100936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.173135 0 0.0219359
+			vertex 0.172135 0 0.0229359
+			vertex 0.173135 0 0.101936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.172135 0 0.0229359
+			vertex 0.173135 0 0.0219359
+			vertex 0.0341355 0 0.0229359
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.173135 0 0.101936
+			vertex 0.172135 0 0.0229359
+			vertex 0.172135 0 0.100936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.173135 0 0.101936
+			vertex 0.172135 0 0.100936
+			vertex 0.0331355 0 0.101936
+		endloop
+	endfacet 
+	facet normal -39.3701 0 0
+		outer loop
+			vertex 0.0331355 0 0.101936
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.0331355 -0.001 0.101936
+		endloop
+	endfacet 
+	facet normal -39.3701 0 0
+		outer loop
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.0331355 0 0.101936
+			vertex 0.0331355 0 0.0219359
+		endloop
+	endfacet 
+	facet normal 0 -39.3701 0
+		outer loop
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.173135 -0.001 0.0219359
+		endloop
+	endfacet 
+	facet normal 0 -39.3701 0
+		outer loop
+			vertex 0.0331355 -0.001 0.0219359
+			vertex 0.173135 -0.001 0.101936
+			vertex 0.0331355 -0.001 0.101936
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.0341355 0.001 0.0229359
+		endloop
+	endfacet 
+	facet normal 0 39.3701 0
+		outer loop
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.172135 0.001 0.100936
+		endloop
+	endfacet 
+	facet normal 0 0 -39.3701
+		outer loop
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.0341355 0 0.0229359
+			vertex 0.0341355 0.001 0.0229359
+		endloop
+	endfacet 
+	facet normal 0 0 -39.3701
+		outer loop
+			vertex 0.0341355 0 0.0229359
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.172135 0 0.0229359
+		endloop
+	endfacet 
+	facet normal -39.3701 0 0
+		outer loop
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.0341355 0 0.0229359
+			vertex 0.0341355 0 0.100936
+		endloop
+	endfacet 
+	facet normal -39.3701 0 0
+		outer loop
+			vertex 0.0341355 0 0.0229359
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.0341355 0.001 0.0229359
+		endloop
+	endfacet 
+	facet normal 0 0 39.3701
+		outer loop
+			vertex 0.172135 0 0.100936
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.0341355 0 0.100936
+		endloop
+	endfacet 
+	facet normal 0 0 39.3701
+		outer loop
+			vertex 0.0341355 0.001 0.100936
+			vertex 0.172135 0 0.100936
+			vertex 0.172135 0.001 0.100936
+		endloop
+	endfacet 
+	facet normal 39.3701 0 0
+		outer loop
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.172135 0 0.100936
+			vertex 0.172135 0 0.0229359
+		endloop
+	endfacet 
+	facet normal 39.3701 0 0
+		outer loop
+			vertex 0.172135 0 0.100936
+			vertex 0.172135 0.001 0.0229359
+			vertex 0.172135 0.001 0.100936
+		endloop
+	endfacet 
+endsolid 3DGeom-1
